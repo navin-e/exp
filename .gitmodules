@@ -1,0 +1,3 @@
+[submodule "oswdexp"]
+	path = oswdexp
+	url = https://github.com/navin-e/oswdexp.git
