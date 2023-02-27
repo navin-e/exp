@@ -1,3 +1,6 @@
 [submodule "oswdexp"]
 	path = oswdexp
 	url = https://github.com/navin-e/oswdexp.git
+[submodule "subdir"]
+	path = subdir
+	url = ./subdir/
